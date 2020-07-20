@@ -2,6 +2,7 @@
   "name": "i18next-http-backend",
   "version": "1.0.17",
   "private": false,
+  "type": "commonjs",
   "main": "./cjs/index.js",
   "exports": {
     "./package.json": "./package.json",
